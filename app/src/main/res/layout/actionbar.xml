@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="?android:attr/actionBarSize"
+              android:background="@android:color/holo_green_dark"
+              android:orientation="horizontal"
+              android:paddingTop="6dp">
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.12"
+        android:src="@drawable/hamburger"/>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.76">
+
+        <EditText
+            android:id="@+id/actionbar_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/contentcell"
+            android:cursorVisible="false"
+            android:gravity="left"
+            android:hint="Search Groupon"
+            android:paddingBottom="6dp"
+            android:paddingLeft="50dp"
+            android:paddingTop="6dp"
+            android:singleLine="true"
+            android:textColorHint="@android:color/holo_green_dark"/>
+
+        <ImageView
+            android:id="@+id/search_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:src="@android:drawable/ic_menu_search"/>
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.12"
+        android:src="@drawable/notification"/>
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item>Nearby</item>
+        <item>Featured</item>
+        <item>Goods</item>
+        <item>Beat The Heat</item>
+        <item>Hotels</item>
+        <item>Getaways</item>
+        <item>Coupons</item>
+    </string-array>
+</resources>
