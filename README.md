@@ -16,3 +16,5 @@ References below:
 1) https://www.google.com/design/icons/
 
 2) https://developer.android.com/samples/SlidingTabsBasic/project.html
+
+3) http://solutionoptimist.com/2013/12/28/awesome-github-tricks/
