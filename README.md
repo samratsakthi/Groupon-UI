@@ -1,7 +1,9 @@
 # Groupon-UI
 Groupon UI Simulation
 
-Created Groupon UI with available resources.
+Created/Simulated Groupon UI of the original application 
+
+https://play.google.com/store/apps/details?id=com.groupon
 
 References below:
 
