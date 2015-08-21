@@ -7,8 +7,9 @@ https://play.google.com/store/apps/details?id=com.groupon
 
 Implementation Screenshots:
 
-https://cloud.githubusercontent.com/assets/550618/9419757/2cb6c82e-4824-11e5-9682-78a338921f85.png
-https://cloud.githubusercontent.com/assets/550618/9419758/2cb72602-4824-11e5-93ae-922c33421572.png
+1) https://cloud.githubusercontent.com/assets/550618/9419757/2cb6c82e-4824-11e5-9682-78a338921f85.png
+
+2) https://cloud.githubusercontent.com/assets/550618/9419758/2cb72602-4824-11e5-93ae-922c33421572.png
 
 References below:
 
