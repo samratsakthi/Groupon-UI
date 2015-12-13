@@ -7,10 +7,7 @@ https://play.google.com/store/apps/details?id=com.groupon
 
 Implementation Screenshots:
 
-1) https://cloud.githubusercontent.com/assets/550618/9419757/2cb6c82e-4824-11e5-9682-78a338921f85.png
-
-2) https://cloud.githubusercontent.com/assets/550618/9419758/2cb72602-4824-11e5-93ae-922c33421572.png
-
+<img src="https://cloud.githubusercontent.com/assets/550618/11768342/d038cac8-a18f-11e5-9399-b7cdc08e3ef8.png" width="90%"></img> <img src="https://cloud.githubusercontent.com/assets/550618/11768343/d0479bac-a18f-11e5-8620-32fab0795b6e.png" width="90%"></img> 
 References below:
 
 1) https://www.google.com/design/icons/
